@@ -1,6 +1,11 @@
 # Multi-Criteria Alloy Pareto Prototype
 
-This prototype implements the optimization workflow described in `paper1.pdf` and the exhaustive screening idea from `paper2.pdf`:
+This prototype implements the multi-objective, constraint-aware design workflow and the exhaustive-screening idea introduced in the following works:
+
+1. Menou, E., Ramstein, G., Bertrand, E., & Tancret, F. (2016). *Multi-objective constrained design of nickel-base superalloys using data mining- and thermodynamics-driven genetic algorithms.* **Modelling and Simulation in Materials Science and Engineering**, 24(5), 055001.
+2. Menou, E., Rame, J., Desgranges, C., Ramstein, G., & Tancret, F. (2019). *Computational design of a single crystal nickel-based superalloy with improved specific creep endurance at high temperature.* **Computational Materials Science**, 170, 109194.
+
+## Key Features
 
 - **NSGA-II genetic algorithm** for multi-objective alloy design.
 - **Constraint-aware Pareto ranking** where feasible alloys dominate infeasible ones.
@@ -37,7 +42,7 @@ PYTHONPATH=src python -m alloy_pareto --mode ga --data-source placeholder
 PYTHONPATH=src python -m alloy_pareto --mode ga --data-source paper
 ```
 
-`placeholder` uses the original toy formulas and broad prototype bounds. `paper` uses numerical data extracted from the papers where it is directly reusable: Paper2 Table 3 density coefficients and compatible Paper2 Table 4 search bounds. Creep strength, cost, BTR, TCP risk, and corrosion proxies remain placeholders because the PDFs do not include the complete raw training databases or trained Gaussian-process models.
+`placeholder` uses the original toy formulas and broad prototype bounds. `paper` uses numerical data extracted from the papers where it is directly reusable: Paper [2] Table 3 density coefficients and compatible Paper [2] Table 4 search bounds. Creep strength, cost, BTR, TCP risk, and corrosion proxies remain placeholders because the PDFs do not include the complete raw training databases or trained Gaussian-process models.
 
 Run tests:
 
