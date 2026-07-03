@@ -1,0 +1,20 @@
+source_paper,source_lines,stage,value,unit,notes
+paper2,526-530,initial_search_space,293000000,alloys,systematic grid-search space size
+paper2,637-644,CRS_threshold_950C_1100h,300,MPa,augmented CRS threshold
+paper2,637-644,CRS_threshold_1050C_110h,200,MPa,augmented CRS threshold
+paper2,637-644,CRS_threshold_1050C_550h,150,MPa,augmented CRS threshold
+paper2,637-644,CRS_threshold_1200C_510h,55,MPa,augmented CRS threshold
+paper2,643-644,after_CRS_screen,69000000,alloys,alloys passing augmented CRS screen
+paper2,645-646,density_threshold,9.05,g_cm3,predicted density upper bound
+paper2,645-646,after_density_screen,44000000,alloys,alloys passing density screen
+paper2,648-649,TCP_threshold,6,mol_pct,maximum allowed TCP phase content
+paper2,648-649,after_first_thermodynamic_screen,4000000,alloys,approximately remaining after phase/TCP screen
+paper2,650-650,freckles_disqualified,500000,alloys,alloys rejected by freckles resistance criterion
+paper2,681-688,final_candidates,182772,alloys,alloys following all specifications
+paper2,687-688,candidate_families,222,families,groups sharing identical alloying elements
+paper2,749-752,pareto_after_candidates,324,alloys,Pareto-optimal candidates by density and creep rupture stresses
+paper2,753-756,hand_picked_candidates,15,alloys,selected for validation according to gamma prime and CRS/density criteria
+paper2,753-755,gamma_prime_selection_min,60,mol_pct,selected candidate gamma prime lower bound at 950 C
+paper2,753-755,gamma_prime_selection_max,80,mol_pct,selected candidate gamma prime upper bound at 950 C
+paper2,755-756,CRS_1200C_density_ratio_min,7,MPa_cm3_g_minus1,selected candidate lowered CRS at 1200 C divided by density
+paper2,760-785,space_reduction,99.9999,percent,reported reduction of design space

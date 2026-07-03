@@ -1,0 +1,4 @@
+source_paper,source_table,source_lines,alloy,Ni_wt_pct,Co_wt_pct,Fe_wt_pct,Cr_wt_pct,Mo_wt_pct,W_wt_pct,Nb_wt_pct,Al_wt_pct,Ti_wt_pct,C_wt_pct,cost_pct_of_Ni,delta_per_mille,BTR_K,notes
+paper1,Table 4,1271-1345,Inconel 740H,~50,20.0,1.0,24.5,0.1,NA,1.5,1.35,1.35,0.04,132,15,180,nominal composition and calculated quantities from paper table; approximate Ni indicated by ~ in paper
+paper1,Table 4,1271-1345,Haynes 282,~57,10.0,NA,20.0,8.5,NA,NA,1.5,2.1,0.06,126,-4,94,nominal composition and calculated quantities from paper table; approximate Ni indicated by ~ in paper
+paper1,Table 4,1271-1345,Alloy A,~49,18.9,6.2,19.0,0.1,2.5,NA,2.6,1.9,0.09,124,7,93,proposed optimized alternative from paper1; approximate Ni indicated by ~ in paper

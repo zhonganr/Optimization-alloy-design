@@ -1,0 +1,15 @@
+source_paper,source_table,source_lines,variable,unit,minimum,maximum,notes
+paper2,Table 1,198-245,Al,wt_pct,0.39,9,range of variables in creep rupture stress database
+paper2,Table 1,198-245,Co,wt_pct,0,17,range of variables in creep rupture stress database
+paper2,Table 1,198-245,Cr,wt_pct,0,16,range of variables in creep rupture stress database
+paper2,Table 1,198-245,Hf,wt_pct,0,2,range of variables in creep rupture stress database
+paper2,Table 1,198-245,Mo,wt_pct,0,13,range of variables in creep rupture stress database
+paper2,Table 1,198-245,Nb,wt_pct,0,4,range of variables in creep rupture stress database
+paper2,Table 1,198-245,Re,wt_pct,0,11.5,range of variables in creep rupture stress database
+paper2,Table 1,198-245,Ru,wt_pct,0,9.7,range of variables in creep rupture stress database
+paper2,Table 1,198-245,Ta,wt_pct,0,12.1,range of variables in creep rupture stress database
+paper2,Table 1,198-245,Ti,wt_pct,0,5,range of variables in creep rupture stress database
+paper2,Table 1,198-245,W,wt_pct,0,18.6,range of variables in creep rupture stress database
+paper2,Table 1,198-245,Temperature,C,650,1204,range of variables in creep rupture stress database
+paper2,Table 1,198-245,Time to rupture,log_h,-0.90,4.32,range of variables in creep rupture stress database
+paper2,Table 1,198-245,Creep rupture stress,log_MPa,1.15,2.99,range of variables in creep rupture stress database

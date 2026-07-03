@@ -1,0 +1,12 @@
+source_paper,source_table,source_lines,element,minimum_wt_pct,maximum_wt_pct,step_wt_pct,notes
+paper1,Table 3,821-850,Ni,NA,NA,NA,balance element
+paper1,Table 3,821-850,Co,0,21,0.1,step inferred from table text extraction
+paper1,Table 3,821-850,Fe,0,30,0.1,step inferred from table text extraction
+paper1,Table 3,821-850,Cr,15,25,0.1,step inferred from table text extraction
+paper1,Table 3,821-850,Mo,0,2,0.1,step inferred from table text extraction
+paper1,Table 3,821-850,W,0,6,0.1,step inferred from table text extraction
+paper1,Table 3,821-850,Nb,0,5,0.1,step inferred from table text extraction
+paper1,Table 3,821-850,Al,0,5,0.1,step inferred from table text extraction
+paper1,Table 3,821-850,Ti,0,5,0.1,step inferred from table text extraction
+paper1,Table 3,821-850,C,0,0.15,0.01,step visible separately in extracted text
+paper1,Table 3,821-850,B,0.005,0.005,NA,fixed value

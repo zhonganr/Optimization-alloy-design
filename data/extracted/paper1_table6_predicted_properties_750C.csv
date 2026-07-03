@@ -1,0 +1,4 @@
+source_paper,source_table,source_lines,alloy,UTS_MPa,UTS_uncertainty_MPa,YS_MPa,YS_uncertainty_MPa,CRS_MPa,CRS_uncertainty_MPa,probability_Alloy_A_higher_UTS_pct,probability_Alloy_A_higher_YS_pct,probability_Alloy_A_higher_CRS_pct,notes
+paper1,Table 6,1445-1485,Alloy A,915,170,785,130,345,110,NA,NA,NA,predicted values at 750 C; CRS for 10^3 h
+paper1,Table 6,1445-1485,Inconel 740H,790,NA,660,NA,290,NA,77,83,69,mean properties reported by Special Metals; probabilities are chance Alloy A is higher
+paper1,Table 6,1445-1485,Haynes 282,870,NA,630,NA,280,NA,60,88,72,mean properties reported by Haynes Intl.; probabilities are chance Alloy A is higher

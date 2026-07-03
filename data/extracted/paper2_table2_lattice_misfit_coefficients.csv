@@ -1,0 +1,13 @@
+source_paper,source_table,source_lines,term,gamma_Caron_A,gamma_Kablov_A,gamma_prime_Caron_A,gamma_prime_Kablov_A,notes
+paper2,Table 2,198-420,c,3.524,3.5219,3.57,3.5691,lattice parameter constant or Vegard coefficient
+paper2,Table 2,198-420,Al,0.179,0.221,0,0,lattice parameter constant or Vegard coefficient
+paper2,Table 2,198-420,Co,0.0196,0.059,-0.0042,-0.002,lattice parameter constant or Vegard coefficient
+paper2,Table 2,198-420,Cr,0.110,0.122,-0.004,0.014,lattice parameter constant or Vegard coefficient
+paper2,Table 2,198-420,Hf,1,1.559,0.7,1.339,lattice parameter constant or Vegard coefficient
+paper2,Table 2,198-420,Mo,0.478,0.412,0.208,0.097,lattice parameter constant or Vegard coefficient
+paper2,Table 2,198-420,Nb,0.7,0.595,0.46,0.275,lattice parameter constant or Vegard coefficient
+paper2,Table 2,198-420,Re,0.441,0.382,0.262,-0.504,lattice parameter constant or Vegard coefficient
+paper2,Table 2,198-420,Ru,0.3125,0.303,0.1335,0.083,lattice parameter constant or Vegard coefficient
+paper2,Table 2,198-420,Ta,0.7,0.693,0.5,0.398,lattice parameter constant or Vegard coefficient
+paper2,Table 2,198-420,Ti,0.422,0.302,0.258,0.149,lattice parameter constant or Vegard coefficient
+paper2,Table 2,198-420,W,0.444,0.435,0.194,0.151,lattice parameter constant or Vegard coefficient; OCR showed comma in last value
